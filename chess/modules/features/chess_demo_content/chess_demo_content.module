@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the chess Demo Content feature.
+ */
+
+include_once 'chess_demo_content.features.inc';

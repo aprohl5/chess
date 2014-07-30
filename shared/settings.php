@@ -554,3 +554,6 @@ $conf['allow_authorize_operations'] = FALSE;
 
 // Require a local settings file.
 require dirname(__FILE__) . '/settings.local.php';
+
+$conf['install_profile'] = 'chess';
+

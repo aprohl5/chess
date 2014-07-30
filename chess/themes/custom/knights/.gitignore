@@ -1,0 +1,8 @@
+.bowerrc
+component.json
+components/
+node_modules/
+.sass-cache/
+vendor/*
+!vendor/alphecca/images
+!vendor/alphecca/js
